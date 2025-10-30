@@ -1,0 +1,24 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ef9b9b;
+  border-radius: 5px;
+  background-color: #000059;
+  box-shadow: rgba(red, green, blue, alpha) 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+} */
